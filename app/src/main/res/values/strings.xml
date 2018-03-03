@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Question App</string>
+    <string name="your_answ">Your Answ</string>
+    <string name="no">#</string>
+    <string name="mark">Mark</string>
+    <string name="correct_answ">Correct Answ</string>
+</resources>
